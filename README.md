@@ -47,36 +47,6 @@ Notes can optionally be protected with a password and configured with an expirat
 * Swagger for API testing
 
 
-
-
-
-#### Project Structure
-
-TemporaryNotes.Api
-├── Controllers
-│   └── NotesController.cs
-│
-├── TemporaryNotes.Application
-│   ├── DTOs
-│   ├── Interfaces
-│   └── Note
-│       ├── Commands
-│       └── Queries
-│
-├── TemporaryNotes.Domain
-│   └── Entities
-│       └── Notes.cs
-│
-├── TemporaryNotes.Infrastructure
-│   ├── Migrations
-│   ├── Repositories
-│   └── AppDbContext.cs
-│
-└── TemporaryNotes.Tests
-└── Unit tests
-
-
-
 ##### 
 
 ##### Database Setup
