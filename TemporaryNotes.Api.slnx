@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="docker-compose.yml" />
+  </Folder>
+  <Project Path="TemporaryNotes.Api/TemporaryNotes.Api.csproj" />
+  <Project Path="TemporaryNotes.Application/TemporaryNotes.Application.csproj" />
+  <Project Path="TemporaryNotes.Domain/TemporaryNotes.Domain.csproj" />
+  <Project Path="TemporaryNotes.Infrastructure/TemporaryNotes.Infrastructure.csproj" />
+  <Project Path="TemporaryNotes.Tests/TemporaryNotes.Tests.csproj" Id="88e58843-f0d2-4b86-a1de-bea88fd3ce40" />
+</Solution>
